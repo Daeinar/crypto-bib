@@ -2,7 +2,7 @@
 
 [Crypto Bib](http://cryptobib.di.ens.fr/) is a BibTeX database containing papers related to Cryptography, with manually checked entries and uniform BibTeX data.
 
-###Warning
+###Note
 
 This repository is a snapshot of the Crypto Bib homepage. It includes the [complete Crypto Bib database](http://cryptobib.di.ens.fr/init/static/files/crypto.zip). For customised versions please go to the [official website](http://cryptobib.di.ens.fr/init/default/custom).
 
