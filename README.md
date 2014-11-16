@@ -6,7 +6,7 @@
 
 This repository is a snapshot of the Crypto Bib homepage. It includes the [complete Crypto Bib database](http://cryptobib.di.ens.fr/init/static/files/crypto.zip). For customised versions please go to the [official website](http://cryptobib.di.ens.fr/init/default/custom).
 
-Snapshot version: `2014-11-04`
+Snapshot version: `2014-11-16`
 
 
 ###Authors
@@ -19,6 +19,7 @@ The Crypto Bib database is maintained by
 
 ###Changes
 
+  - **2014-11-16:** ASIACRYPT 2014, FC 2014, INDOCRYPT 2014, ISC 2014
   - **2014-10-28:** CANS 2014, FSW 2014, ICISC 2014
   - **2014-10-03:** CHES 2014, ESORICS 2014, IWSEC 2014, PROVSEC 2014, SCN 2014, TRUSTBUS 2014, JC 2014 (Number 4)
   - **2014-09-23:** EPRINT (up to 2014/740)
