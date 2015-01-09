@@ -16,6 +16,7 @@ The Crypto Bib database is maintained by
 
 ###Changes
 
+  - **2015-01-06:** FOCS 2014
   - **2014-12-09:** IEEE SP 2014, NDSS 2014, SAC 2014
   - **2014-11-21:** ACM CCS 2014, ASIACRYPT 2014, FC 2014, INDOCRYPT 2014, ISC 2014, EPRINT (up to 2014/934)
   - **2014-10-28:** CANS 2014, FSW 2014, ICISC 2014
