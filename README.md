@@ -16,6 +16,9 @@ The Crypto Bib database is maintained by
 
 ###Changes
 
+  - **2015-03-20:** ICISC 2014, PKC 2015, TCC 2015, EPRINT (up to 2015/257), JC 2015 (Number 2)
+  - **2015-03-11:** EPRINT (up to 2015/228)
+  - **2015-02-04:** EPRINT (up to 2015/069), JC 2015 (Number 1)
   - **2015-01-30:** ITCS 2015, SODA 2015, WISA 2014
   - **2015-01-12:** EPRINT (up to 2015/024)
   - **2015-01-06:** FOCS 2014
