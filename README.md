@@ -16,6 +16,8 @@ The Crypto Bib database is maintained by
 
 ###Changes
 
+  - **2015-04-30:** FSE 2014
+  - **2015-04-15:** LATINCRYPT 2014, EUROCRYPT 2015, ICITS 2015
   - **2015-03-20:** ICISC 2014, PKC 2015, TCC 2015, EPRINT (up to 2015/257), JC 2015 (Number 2)
   - **2015-03-11:** EPRINT (up to 2015/228)
   - **2015-02-04:** EPRINT (up to 2015/069), JC 2015 (Number 1)
