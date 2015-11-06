@@ -1,3 +1,6 @@
+##Warning
+This repository is no longer maintained since there is now an [official version](https://github.com/cryptobib) available!
+
 ##Crypto Bib
 
 [Crypto Bib](http://cryptobib.di.ens.fr/) is a BibTeX database containing papers related to Cryptography, with manually checked entries and uniform BibTeX data.
